@@ -1,6 +1,6 @@
 # ☕ Coffee Website
 
-This project is a modern and stylish website design for coffee shops, built using **HTML, CSS, and FontAwesome**.
+This project is a modern and stylish web-site design for coffee shops, built using **HTML, CSS, and FontAwesome**.
 
 ## 🚀 Features
 - Responsive (Mobile-friendly) design 📱  
